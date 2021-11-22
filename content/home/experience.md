@@ -43,7 +43,7 @@ experience:
     company: NVIDIA
     company_url: ''
     company_logo: org-x
-    location: Bethesda, Maryland
+    location: Bethesda
     date_start: '2018-05-01'
     date_end: '2018-12-31'
     description: |2-
@@ -65,7 +65,7 @@ experience:
     date_start: '2017-05-01'
     date_end: '2017-8-31'
     description: |2-
-    Lung nodule detection in CT images:
+        Lung nodule detection in CT images:
 
         * Achieved rank 6 out of 2887 teams in the Skylake competition sponsored by Intel and Alibaba.
         * Applied PyTorch, 3D UNet and Caffe, Faster RCNN to detect lung nodules in 1000 CT scans.
