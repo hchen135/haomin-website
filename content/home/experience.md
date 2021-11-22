@@ -30,14 +30,14 @@ experience:
     date_start: '2019-05-01'
     date_end: '2019-12-31'
     description: |2-
-    Symmetric learning for Fracture Detection in Pelvic Trauma X-ray:
+        Symmetric learning X-ray:
 
-    * Accepted 
-    * Achieved 
-    * Created 
-    * Constructed 
-    * Aligned 
-    * Applied
+        * Accepted 
+        * Achieved 
+        * Created 
+        * Constructed 
+        * Aligned 
+        * Applied
 
 design:
   columns: '2'
