@@ -69,4 +69,4 @@ highlight_name: true
 
 I am a PhD student of computer science in Johns Hopkins University. My research interests include transparent systems, medical imaging and computer vision. I have research experience about transparent deep learning systems for both 2D and 3D medical images; both radiological and pathological images; both classification and detection problems, with both PyTorch and Tensowflow packages.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
