@@ -56,13 +56,13 @@ experience:
         * Derived a numerically stable formulation to calculate the cross entropy loss using full probabilities.
         * Introduced conditional AUCs for hierarchical-label performance evaluation.
 
- - title: Applied Research Intern
+  - title: Applied Research Intern
     company: PingAn
     company_url: ''
-    company_logo: org-gc
-    location: Shanghai
-    date_start: '2017-05-01'
-    date_end: '2017-8-31'
+    company_logo: org-x
+    location: Bethesda
+    date_start: '2018-05-01'
+    date_end: '2018-12-31'
     description: |2-
         Deep Hierarchical Multi-label Classification of Chest X-ray:
     
