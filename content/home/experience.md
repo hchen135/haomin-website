@@ -56,6 +56,21 @@ experience:
         * Derived a numerically stable formulation to calculate the cross entropy loss using full probabilities.
         * Introduced conditional AUCs for hierarchical-label performance evaluation.
 
+ - title: Applied Research Intern
+    company: PingAn
+    company_url: ''
+    company_logo:
+    location: Shanghai
+    date_start: '2017-05-01'
+    date_end: '2017-8-31'
+    description: |2-
+        Lung nodule detection in CT images:
+
+        * Achieved rank 6 out of 2887 teams in the Skylake competition sponsored by Intel and Alibaba.
+        * Applied PyTorch, 3D UNet and Caffe, Faster RCNN to detect lung nodules in 1000 CT scans.
+        * Truncated the last two deconvolution layers in U Net changed the output as RPN structure and added new output branches before every deconvolution layer. 
+        * Used fusion method to achieve false positive reduction.
+
 design:
   columns: '2'
 ---
