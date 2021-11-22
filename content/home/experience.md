@@ -60,9 +60,9 @@ experience:
     company: PingAn
     company_url: ''
     company_logo: org-x
-    location: Bethesda
-    date_start: '2018-05-01'
-    date_end: '2018-12-31'
+    location: Shanghai
+    date_start: '2017-05-01'
+    date_end: '2017-08-31'
     description: |2-
         Deep Hierarchical Multi-label Classification of Chest X-ray:
     
