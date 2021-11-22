@@ -26,18 +26,18 @@ experience:
     company: PingAn
     company_url: ''
     company_logo: org-gc
-    location: Bethesda, Maryland
+    location: Bethesda
     date_start: '2019-05-01'
     date_end: '2019-12-31'
     description: |2-
     Symmetric learning for Fracture Detection in Pelvic Trauma X-ray:
 
-    * Accepted by ECCV with poster.
-    * Achieved 98.8\% AUC for all fractures, with is 0.8% higher than baseline model.
-    * Created alignment between original/flipped images according to pelvic structure landmark detection.
-    * Constructed Siamese network with fusion layer to incorporate symmetric information.
-    * Aligned Siamese features instead of input images to reduce distortion artifacts.
-    * Applied pixel-wise contrastive loss to learn pathologically asymmetric information explicitly.
+    * Accepted 
+    * Achieved 
+    * Created 
+    * Constructed 
+    * Aligned 
+    * Applied
 
 design:
   columns: '2'
