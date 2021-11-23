@@ -59,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Lable hierarchy for PLCO CXR dataset.'
+  caption: 'Label hierarchy for PLCO CXR dataset.'
   focal_point: ""
   preview_only: false
 
@@ -68,8 +68,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+# projects:
+# - example
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -79,7 +79,7 @@ projects:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -88,3 +88,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+ -->
