@@ -59,7 +59,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Label hierarchy for PLCO CXR dataset.'
+  caption: 'An overview of the algorithm.'
   focal_point: ""
   preview_only: false
 
