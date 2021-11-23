@@ -28,7 +28,7 @@ doi: ""
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *International Workshop on Ophthalmic Medical Image Analysis*
+publication: In *MICCAI Workshop on Ophthalmic Medical Image Analysis*
 publication_short: In *OMIA*
 
 abstract: Facilitating quantitative analysis of cytology images of fine needle aspirates of uveal melanoma is important to confirm diagnosis and inform management decisions. Extracting high-quality regions of interest (ROIs) from cytology whole slide images is a critical first step. To the best of our knowledge, we describe the first unsupervised clustering-based method for fine needle aspiration cytology (FNAC) that automatically suggests high-quality ROIs. Our method is integrated in a graphical user interface that allows for interactive refinement of ROI suggestions to tailor analysis to any specific specimen. We show that the proposed approach suggests ROIs that are in very good agreement with expert-extracted regions and demonstrate that interactive refinement results in the extraction of more high-quality regions compared to purely algorithmic extraction alone.
