@@ -37,7 +37,7 @@ abstract: Chest X-rays (CXRs) are a crucial and extraordinarily common diagnosti
 # Summary. An optional shortened abstract.
 summary: A two-stage hierarchical multi-label classification algorithm for chest X-ray abnormality classification.
 
-tags: ['hierarchy_conference']
+tags: []
 
 # Display this page in the Featured widget?
 featured: false
