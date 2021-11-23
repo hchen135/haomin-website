@@ -42,7 +42,7 @@ experience:
   - title: Applied Research Intern
     company: NVIDIA
     company_url: ''
-    company_logo: org-x
+    company_logo: nvidia_logo
     location: Bethesda
     date_start: '2018-05-01'
     date_end: '2018-12-31'
