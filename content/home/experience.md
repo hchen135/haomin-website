@@ -25,7 +25,7 @@ experience:
   - title: Applied Research Intern
     company: PingAn
     company_url: ''
-    company_logo: org-gc
+    company_logo: pingan
     location: Bethesda
     date_start: '2019-05-01'
     date_end: '2019-12-31'
@@ -59,7 +59,7 @@ experience:
   - title: Applied Research Intern
     company: PingAn
     company_url: ''
-    company_logo: org-x
+    company_logo: pingan
     location: Shanghai
     date_start: '2017-05-01'
     date_end: '2017-08-31'
