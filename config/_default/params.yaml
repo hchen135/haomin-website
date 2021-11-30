@@ -22,13 +22,13 @@ twitter: ''
 
 email: hchen135@jhu.edu
 phone: 443 630 2698
-address:
-  street: 2707 Jenner Drive
-  city: Baltimore
-  region: MD
-  postcode: '21209'
-  country: United States
-  country_code: US
+# address:
+#   street: 2707 Jenner Drive
+#   city: Baltimore
+#   region: MD
+#   postcode: '21209'
+#   country: United States
+#   country_code: US
 # coordinates:
 #   latitude: '37.4275'
 #   longitude: '-122.1697'
