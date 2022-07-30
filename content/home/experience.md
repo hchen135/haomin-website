@@ -25,7 +25,7 @@ experience:
   - title: Research Intern
     company: Meta
     company_url: ''
-    company_logo: meta-logo
+    company_logo: pingan
     location: Bethesda
     date_start: '2022-06-04'
     date_end: '2022-08-26'
