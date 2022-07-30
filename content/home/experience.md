@@ -22,6 +22,22 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Intern
+    company: Meta
+    company_url: ''
+    company_logo: meta-logo
+    location: Bethesda
+    date_start: '2022-06-04'
+    date_end: '2022-08-26'
+    description: |2-
+        3D scene style transfer with 2D style image by differential rendering:
+
+        * Internship performance exceeds mentor/peers' expectation in review.
+        * Learned style transfer, 3D mesh and rendering from scratch in one week.
+        * Utilized PyTorch3D \& nvdiffrast as differential rendering to generate 2D views.
+        * Optimized texture maps by style transfer between 2D rendered images and style image.
+        * Preserved object style consistency by semantic style transfer.
+
   - title: Applied Research Intern
     company: PingAn
     company_url: ''
@@ -32,12 +48,10 @@ experience:
     description: |2-
         Symmetric learning for Fracture Detection in Pelvic Trauma X-ray:
 
-        * Accepted by ECCV with poster.
-        * Achieved 98.8% AUC for all fractures, with is 0.8% higher than baseline model.
-        * Created alignment between original/flipped images according to pelvic structure landmark detection.
-        * Constructed Siamese network with fusion layer to incorporate symmetric information.
-        * Aligned Siamese features instead of input images to reduce distortion artifacts.
-        * Applied pixel-wise contrastive loss to learn pathologically asymmetric information explicitly.
+        * Paper accepted by ECCV 2020 with poster presentation.
+        * Mimicked radiologists' practice by comparing vertical asymmetric areas via Siamese network.
+        * Aligned Siamese features according to GNN-detected pelvic structure landmarks.
+        * Learned anatomical asymmetry explicitly by novel pixel-wise contrastive loss.
 
   - title: Applied Research Intern
     company: NVIDIA
@@ -49,12 +63,11 @@ experience:
     description: |2-
         Deep Hierarchical Multi-label Classification of Chest X-ray:
     
-        * Accepted by MIDL 2019 with oral and special invitation to Journal Medical Image Analysis.
-        * Achieved 89% AUC of all diseases on PLCO dataset, which is the state of the art.
-        * Constructed Hierarchical label structure following clinical taxonomy.
-        * Trained with conditional probabilities first and then fine-tuned with full probabilities training.
-        * Derived a numerically stable formulation to calculate the cross entropy loss using full probabilities.
-        * Introduced conditional AUCs for hierarchical-label performance evaluation.
+        * Paper accepted by MIDL 2019 with oral presentation.
+        * Special invitation to Journal ``Medical Image Analysis" and paper accepted.
+        * Followed clinical taxonomy to construct hierarchical multi-label classification.
+        * Developed a two-stage training procedure to fit the extreme label imbalance dataset.
+        * Derived a numerically stable math formulation to avoid floating point underflow calculating loss.
 
   - title: Applied Research Intern
     company: PingAn
@@ -68,7 +81,6 @@ experience:
 
         * Achieved rank 6 out of 2887 teams in the Skylake competition sponsored by Intel and Alibaba.
         * Applied PyTorch, 3D UNet and Caffe, Faster RCNN to detect lung nodules in 1000 CT scans.
-        * Truncated the last two deconvolution layers in U Net changed the output as RPN structure and added new output branches before every deconvolution layer. 
         * Used fusion method to achieve false positive reduction.
 
 design:
