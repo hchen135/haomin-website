@@ -28,7 +28,7 @@ experience:
     company_logo: ericsson-logo
     location: Los Angeles
     date_start: '2023-02-20'
-    date_end: '2023-06-04'
+    date_end: ''
     description: |2-
         Interpretable Video-based Language Translation:
 
