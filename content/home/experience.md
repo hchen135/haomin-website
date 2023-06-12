@@ -32,8 +32,8 @@ experience:
     description: |2-
         Interpretable Video-based Language Translation:
 
-        International in-person or virtual real-time communication/entertainment are limited by languages. Even with human interpreters, asynchrony between facial movements and interpreted sentences creates a sense of distance and a non-immersive experience. 
-        An interpretable video-based language translation can not only interpret the audio but also the facial movement visualization into different languages, providing no distance between both sides of the communication. I created the largest dataset of videos with speakers' faces from a wild source - YouTube. The dataset contains 340 hours of video length, which is 15 times larger than the largest public dataset, and 10 different languages. 
+        * International in-person or virtual real-time communication/entertainment are limited by languages. Even with human interpreters, asynchrony between facial movements and interpreted sentences creates a sense of distance and a non-immersive experience. 
+        * An interpretable video-based language translation can not only interpret the audio but also the facial movement visualization into different languages, providing no distance between both sides of the communication. I created the largest dataset of videos with speakers' faces from a wild source - YouTube. The dataset contains 340 hours of video length, which is 15 times larger than the largest public dataset, and 10 different languages. 
 
   - title: Research Intern
     company: Meta
