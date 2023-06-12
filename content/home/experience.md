@@ -22,11 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Applied Research Scientist
+    company: Ericsson
+    company_url: ''
+    company_logo: meta-logo
+    location: Los Angeles
+    date_start: '2023-02-20'
+    date_end: 'now'
+    description: |2-
+        Interpretable Video-based Language Translation:
+
+        International in-person or virtual real-time communication/entertainment are limited by languages. Even with human interpreters, asynchrony between facial movements and interpreted sentences creates a sense of distance and a non-immersive experience. 
+        An interpretable video-based language translation can not only interpret the audio but also the facial movement visualization into different languages, providing no distance between both sides of the communication. I created the largest dataset of videos with speakers' faces from a wild source - YouTube. The dataset contains 340 hours of video length, which is 15 times larger than the largest public dataset, and 10 different languages. 
+
   - title: Research Intern
     company: Meta
     company_url: ''
     company_logo: meta-logo
-    location: Bethesda
+    location: Bethesda, Maryland
     date_start: '2022-06-04'
     date_end: '2022-08-26'
     description: |2-
@@ -42,7 +55,7 @@ experience:
     company: PingAn
     company_url: ''
     company_logo: pingan
-    location: Bethesda
+    location: Bethesda, Meryland
     date_start: '2019-05-01'
     date_end: '2019-12-31'
     description: |2-
@@ -57,7 +70,7 @@ experience:
     company: NVIDIA
     company_url: ''
     company_logo: Nvidia_logo
-    location: Bethesda
+    location: Bethesda, Meryland
     date_start: '2018-05-01'
     date_end: '2018-12-31'
     description: |2-
