@@ -27,7 +27,7 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: Johns Hopkins University
-    year: 2018-present
+    year: 2018-2022
   - course: M.A. in Statistics
     institution: Columbia University
     year: 2016-2017
@@ -67,6 +67,6 @@ email: ""
 highlight_name: true
 ---
 
-I am a PhD student of computer science in Johns Hopkins University. My research interests include transparent systems, medical imaging and computer vision. I have research experience about transparent deep learning systems for both 2D and 3D medical images; both radiological and pathological images; both classification and detection problems, with both PyTorch and Tensorflow.
+I am an Applied Research Scientist in Ericsson working in Ericsson Digital Human (EDH) for interpretable video-based language translation. I graduated as a Computer Science Ph.D. from Johns Hopkins University with a background in interpretable computer vision systems for medical image analysis with human-computer interaction, image classification, object detection, and segmentation. I have rich experience with whole slide images, CT scans, and X-rays. I am the first author of Nature partner journal paper. I have excellent communication skills and ability to work on multi-disciplinary teams.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
