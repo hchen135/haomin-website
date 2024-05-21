@@ -14,13 +14,15 @@ organizations:
   url: https://www.jhu.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning, transparent systems, medical imaging and computer vision.
+bio: My research interests include deep learning, transparent systems, human-computer interaction, medical imaging, computer vision and generative AI.
 
 # Interests to show in About widget
 interests:
 - Computer Vision
 - Medical Imaging
-- Transparent systems
+- Transparent System
+- Human-Computer Intraction
+- Generative AI
 
 # Education to show in About widget
 education:
@@ -67,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-I am an Applied Research Scientist in Ericsson working in Ericsson Digital Human (EDH) for interpretable video-based language translation. I graduated as a Computer Science Ph.D. from Johns Hopkins University with a background in interpretable computer vision systems for medical image analysis with human-computer interaction, image classification, object detection, and segmentation. I have rich experience with whole slide images, CT scans, and X-rays. I am the first author of Nature partner journal paper. I have excellent communication skills and ability to work on multi-disciplinary teams.
+I am an Applied Research Scientist in Ericsson working in Ericsson Digital Human (EDH) for interpretable video translation. I graduated as a Computer Science Ph.D. from Johns Hopkins University with a background in interpretable computer vision systems for medical image analysis with human-computer interaction, image classification, object detection, and segmentation. I have rich experience with whole slide images, CT scans, and X-rays. I am the first author of Nature partner journal paper. I have excellent communication skills and ability to work on multi-disciplinary teams.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

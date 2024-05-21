@@ -30,10 +30,13 @@ experience:
     date_start: '2023-02-20'
     date_end: ''
     description: |2-
-        Interpretable Video-based Language Translation:
+        Interpretable Video Translation:
 
-        * International in-person or virtual real-time communication/entertainment are limited by languages. Even with human interpreters, asynchrony between facial movements and interpreted sentences creates a sense of distance and a non-immersive experience. 
-        * An interpretable video-based language translation can not only interpret the audio but also the facial movement visualization into different languages, providing no distance between both sides of the communication. I created the largest dataset of videos with speakers' faces from a wild source - YouTube. The dataset contains 340 hours of video length, which is 15 times larger than the largest public dataset, and 10 different languages. 
+        * I created the largest dataset of speaking face videos from a wild source - YouTube. 
+        *I established an algorithm for synchronization between translated audio and original video at the sentence level in a multiperson and multilingual situation. 
+        *I refined the facial landmark generation network for better articulation. 
+        *I used the diffusion technique to achieve immersive lip synchronization in videos with translated audio.
+        *In an internal user study, my video-audio synchronization proved to be more robust and generalizable compared to a similar product from ElevenLabs.
 
   - title: Research Intern
     company: Meta
