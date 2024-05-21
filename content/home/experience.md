@@ -33,10 +33,10 @@ experience:
         Interpretable Video Translation:
 
         * I created the largest dataset of speaking face videos from a wild source - YouTube. 
-        *I established an algorithm for synchronization between translated audio and original video at the sentence level in a multiperson and multilingual situation. 
-        *I refined the facial landmark generation network for better articulation. 
-        *I used the diffusion technique to achieve immersive lip synchronization in videos with translated audio.
-        *In an internal user study, my video-audio synchronization proved to be more robust and generalizable compared to a similar product from ElevenLabs.
+        * I established an algorithm for synchronization between translated audio and original video at the sentence level in a multiperson and multilingual situation. 
+        * I refined the facial landmark generation network for better articulation. 
+        * I used the diffusion technique to achieve immersive lip synchronization in videos with translated audio.
+        * In an internal user study, my video-audio synchronization proved to be more robust and generalizable compared to a similar product from ElevenLabs.
 
   - title: Research Intern
     company: Meta
