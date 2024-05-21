@@ -30,7 +30,7 @@ experience:
     date_start: '2023-02-20'
     date_end: ''
     description: |2-
-        Interpretable Video Translation:
+        Interpretable Video Translation by generative AI:
 
         * Created the largest dataset of speaking face videos from a wild source - YouTube. 
         * Established an algorithm for synchronization between translated audio and original video at the sentence level in a multiperson and multilingual situation. 
