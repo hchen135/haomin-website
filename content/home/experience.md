@@ -80,7 +80,7 @@ experience:
         Deep Hierarchical Multi-label Classification of Chest X-ray:
     
         * Paper accepted by MIDL 2019 with oral presentation.
-        * Paper accepted by Journal ``Medical Image Analysis".
+        * Paper accepted by Journal "Medical Image Analysis".
         * Mimicked radiologists to classify abnormality with clinical taxonomy.
         * Improved classification AUC from 0.87 to 0.89.
         * Robust to incompletely labeled data and preserved $85\%$ performance drop.
