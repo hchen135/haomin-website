@@ -83,7 +83,7 @@ experience:
         * Paper accepted by Journal "Medical Image Analysis".
         * Mimicked radiologists to classify abnormality with clinical taxonomy.
         * Improved classification AUC from 0.87 to 0.89.
-        * Robust to incompletely labeled data and preserved $85\%$ performance drop.
+        * Robust to incompletely labeled data and preserved 85% performance drop.
 
   - title: Applied Research Intern
     company: PingAn
