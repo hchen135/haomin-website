@@ -45,10 +45,10 @@ experience:
     date_start: '2022-06-04'
     date_end: '2022-08-26'
     description: |2-
-        2D-3D style transfer for VR
+        2D-3D style transfer for VR:
 
-        * Achieved real-time inference
-        * Human interaction for personalized customization.
+        * Achieved real-time inference.
+        * Enabled human interaction for personalized customization.
         * Preserved 3D visual reality.
         * Utilized PyTorch3D \& nvdiffrast as differential rendering.
         * Preserved object style consistency by semantic style transfer.
@@ -63,8 +63,9 @@ experience:
     description: |2-
         Symmetric learning for Fracture Detection in Pelvic Trauma X-ray:
 
-        * Deployed in Chang Gung Memorial Hospital in Taiwan. 
+        * Deployed in Chang Gung Memorial Hospital in Taiwan ans used by > 5000 patients. 
         * Paper accepted by ECCV 2020 with poster.
+        * Improved detection AUC from 0.95 to 0.98 and fracture recall from 0.89 to 0.93 (FPR=0.1).
         * Mimicked radiologists to detect fractures by comparing bilateral symmetric regions.
         * Focused on anatomical asymmetry with contrastive learning.
 
@@ -95,7 +96,7 @@ experience:
         Lung nodule detection in CT images:
 
         * Achieved rank 6/2887 teams in the Skylake competition by Intel and Alibaba.
-        * Applied PyTorch, 3D UNet and Caffe, Faster RCNN to detect lung nodules in 1000 CT scans.
+        * Applied PyTorch, 3D UNet and Caffe, Faster RCNN in 1000 CT scans.
         * Used fusion method to achieve false positive reduction.
 
 design:
