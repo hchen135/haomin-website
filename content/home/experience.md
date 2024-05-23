@@ -65,7 +65,7 @@ experience:
 
         * Deployed in Chang Gung Memorial Hospital in Taiwan ans used by > 5000 patients. 
         * Paper accepted by ECCV 2020 with poster.
-        * Improved detection AUC from 0.95 to 0.98 and fracture recall from 0.89 to 0.93 (FPR=0.1).
+        * Improved AUC from 0.95 to 0.98 and fracture recall from 0.89 to 0.93 (FPR=0.1).
         * Mimicked radiologists to detect fractures by comparing bilateral symmetric regions.
         * Focused on anatomical asymmetry with contrastive learning.
 
