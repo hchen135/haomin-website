@@ -26,7 +26,7 @@ experience:
     company: Ericsson
     company_url: ''
     company_logo: ericsson-logo
-    location: Los Angeles
+    location: Los Angeles, California
     date_start: '2023-02-20'
     date_end: ''
     description: |2-
@@ -41,7 +41,7 @@ experience:
     company: Meta
     company_url: ''
     company_logo: meta-logo
-    location: Bethesda, Maryland
+    location: Redmond, Washington
     date_start: '2022-06-04'
     date_end: '2022-08-26'
     description: |2-
@@ -57,7 +57,7 @@ experience:
     company: PingAn
     company_url: ''
     company_logo: pingan
-    location: Bethesda, Meryland
+    location: Bethesda, Maryland
     date_start: '2019-05-01'
     date_end: '2019-12-31'
     description: |2-
@@ -73,7 +73,7 @@ experience:
     company: NVIDIA
     company_url: ''
     company_logo: Nvidia_logo
-    location: Bethesda, Meryland
+    location: Bethesda, Maryland
     date_start: '2018-05-01'
     date_end: '2018-12-31'
     description: |2-
