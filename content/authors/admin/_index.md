@@ -69,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-I am an Applied Research Scientist in Ericsson working in Ericsson Digital Human (EDH) for interpretable video translation. I graduated as a Computer Science Ph.D. from Johns Hopkins University with a background in interpretable computer vision systems for medical image analysis with human-computer interaction, image classification, object detection, and segmentation. I have rich experience with whole slide images, CT scans, and X-rays. I am the first author of Nature partner journal paper. I have excellent communication skills and ability to work on multi-disciplinary teams.
+I am a Machine Learning Engineer in ByteDance working in machine auditing for TikTok Shop products. I graduated as a Computer Science Ph.D. from Johns Hopkins University with a background in interpretable computer vision systems for medical image analysis with human-computer interaction, image classification, object detection, and segmentation. I have rich experience with whole slide images, CT scans, and X-rays. I am the first author of Nature partner journal paper. I have excellent communication skills and ability to work on multi-disciplinary teams.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
